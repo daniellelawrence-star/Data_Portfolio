@@ -1,0 +1,43 @@
+1. Diabetes Dataset – Exploratory Data Analysis (EDA)
+
+Objective:
+To explore the Diabetes dataset and investigate how physiological and metabolic features relate to disease progression one year after initial measurement.
+Contents:
+- Diabetes_EDA_Notebook.ipynb – Jupyter notebook with full analysis, visualisations, and commentary
+- EDA Report - Diabetes.docx – Formal written report with figures, findings, and conclusion
+- diabetes.csv – Dataset containing standardised medical measurements
+
+Key Features:
+- Data cleaning and integrity checks using Pandas (.info(), .isnull(), .dropna())
+- Descriptive statistics and correlation analysis
+- Custom plotting functions for reusable visualisations (histograms, scatterplots, heatmaps)
+- Identification of BMI and serum triglycerides (S5) as strongest predictors of progression
+- Professional documentation with captions and statistical commentary
+
+2. Bookstore Inventory Management System
+
+Objective:
+To design and implement a Python-based inventory system for managing book stock, suppliers, and sales records.
+Contents:
+- Bookstore_Inventory.ipynb – Jupyter notebook containing the full codebase and documentation
+- Bookstore_Report.docx – Written report explaining design, functionality, and outcomes
+- bookstore_inventory.csv – Example dataset of book stock and supplier details
+Key Features:
+- Modular Python functions for adding, updating, and querying inventory records
+- Defensive coding practices to handle errors and invalid inputs
+- SQL database integration for structured storage and retrieval
+- Clear documentation and reviewer-friendly code aligned with industry standards
+- Demonstrates algorithmic thinking, workflow optimisation, and practical application of programming skills
+
+How to Use
+1. Open the Jupyter notebooks (.ipynb) to view code, analysis, and visualisations
+2. Refer to the Word reports (.docx) for structured summaries and key findings
+3. Use the CSV files (.csv) as input datasets for reproducing results
+
+Author
+Danielle Lawrence
+
+
+
+
+
